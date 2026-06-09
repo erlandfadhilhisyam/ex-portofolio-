@@ -19,16 +19,16 @@ antarmuka web yang bersih, cepat, dan modern untuk mempublikasikan hasil karya,
 kompetensi teknis, serta laporan praktikum administrasi jaringan secara daring.
 
 ---------------------------------------------------------------------------------
-Plaintext
-2. STRUKTUR DIREKTORI
-Folder Utama: [portfolio-erland]
-1. index.html       -> File utama website, berisi struktur kode & desain CSS
-2. README.txt       -> File dokumentasi teknis ini
-3. foto-erland.jpg  -> File foto profil utama halaman depan
-4. project1.jpg     -> Foto bukti Praktikum SSH Server (Password)
-5. project2.jpg     -> Foto bukti Praktikum SSH Key (Termius)
-6. project3.jpg     -> Foto bukti Praktikum DHCP Server
-7. project4.jpg     -> Foto bukti Praktikum FTP Server
+2. Struktur Direktori
+[portfolio-erland] (Root Directory)
+ │                           
+ ├── index.html           # File markup utama, berisi struktur DOM & internal CSS          
+ ├── README.txt           # File dokumentasi teknis mendalam ini           
+ ├── foto-erland.jpg      # Kompresi aset gambar profil utama (Aspek Rasio 1:1)            
+ ├── project1.jpg         # Dokumentasi visual Praktikum SSH Server (Password)             
+ ├── project2.jpg         # Dokumentasi visual Praktikum SSH Key (Termius)            
+ ├── project3.jpg         # Dokumentasi visual Praktikum DHCP Server              
+ └── project4.jpg         # Dokumentasi visual Praktikum FTP Server              
 ---------------------------------------------------------------------------------
 3. ANALISIS ARSITEKTUR KODE (CODE ARCHITECTURE)
 A. Struktur HTML5 (Semantic Elements):
