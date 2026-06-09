@@ -1,9 +1,10 @@
 Plaintext
-================================================================================
+===============================================================================+
                       DOKUMENTASI TEKNIS & ARSITEKTUR KODE
                            PERSONAL PORTFOLIO WEBSITE
 ---------------------------------------------------------------------------------
-Developer   : Erland Fadhil Hisyam                                                                                                                                   Institusi   : SMK Bina Informatika Bintaro
+Developer   : Erland Fadhil Hisyam
+Institusi   : SMK Bina Informatika Bintaro
 Tech Stack  : HTML5 (Semantic), CSS3 (Vanilla / Custom Properties)
 Deployment  : GitHub + Vercel
 URL Live    : https://ex-portofolio.vercel.app/
