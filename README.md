@@ -24,14 +24,14 @@ Untuk memastikan seluruh aset (gambar dan dokumen) termuat dengan sempurna di
 sisi klien, pohon direktori pada lingkungan produksi/lokal diatur sebagai berikut:
 
 [portfolio-erland] (Root Directory)
- │
- ├── index.html           # File markup utama, berisi struktur DOM & internal CSS
- ├── README.txt           # File dokumentasi teknis mendalam ini
- ├── foto-erland.jpg      # Kompresi aset gambar profil utama (Aspek Rasio 1:1)
- ├── project1.jpg         # Dokumentasi visual Praktikum SSH Server (Password)
- ├── project2.jpg         # Dokumentasi visual Praktikum SSH Key (Termius)
- ├── project3.jpg         # Dokumentasi visual Praktikum DHCP Server
- └── project4.jpg         # Dokumentasi visual Praktikum FTP Server
+ |
+ +-- index.html           # File markup utama, berisi struktur DOM & internal CSS
+ +-- README.txt           # File dokumentasi teknis mendalam ini
+ +-- foto-erland.jpg      # Kompresi aset gambar profil utama (Aspek Rasio 1:1)
+ +-- project1.jpg         # Dokumentasi visual Praktikum SSH Server (Password)
+ +-- project2.jpg         # Dokumentasi visual Praktikum SSH Key (Termius)
+ +-- project3.jpg         # Dokumentasi visual Praktikum DHCP Server
+ +-- project4.jpg         # Dokumentasi visual Praktikum FTP Server
 
 3. ANALISIS ARSITEKTUR KODE (CODE ARCHITECTURE)
 --------------------------------------------------------------------------------
